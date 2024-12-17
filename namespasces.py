@@ -13,6 +13,5 @@ def test_function():
 
     return inner_function()
 
-
 test_function()
 # inner_function() # результат NameError
